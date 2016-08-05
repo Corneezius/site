@@ -1,0 +1,8 @@
+body {
+  font-family: AFCamberwellOne;
+  text-transform: uppercase;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #FFFFFF;
+}
