@@ -57,3 +57,10 @@ header .intro-text .skills {
         transition: padding .3s;
     }
 }
+
+.about{
+  font-family:Helvetica, Sans-Serif;;
+  font-style: normal;
+  text-transform: none;
+  text-align:center;
+}
