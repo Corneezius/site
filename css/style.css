@@ -62,7 +62,7 @@ header .intro-text .skills {
   font-family:Helvetica, Sans-Serif;;
   font-style: normal;
   text-transform: none;
-  text-align:center;
+  text-align:left;
 }
 
 
@@ -71,7 +71,6 @@ header .intro-text .skills {
 }
 
 .img-responsive{
-  width: 300px;
-  height: 300px;
-  float:left;
+  width: 200px;
+  height: 200px;
 }
